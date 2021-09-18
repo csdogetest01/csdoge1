@@ -1,0 +1,2 @@
+export const addrs="0xeb8c0413083d4e43c9202A6A2587513Cc6CB0b7a"
+export const userid="0xcf02a6293aef1b5684af8b0e73c5c5b2b92c6f7f"
